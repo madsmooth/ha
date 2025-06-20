@@ -3,7 +3,7 @@
   "wake_word": "heyg_oodah",
   "author": "madsmooth",
   "website": "https://github.com/madsmooth",
-  "model": "https://raw.githubusercontent.com/aegjoyce/microwakeword-custom-words/refs/heads/main/models/alfred.tflite",
+  "model": "https://raw.githubusercontent.com/madsmooth/ha/refs/heads/main/mww/ohkay_goohdah.flite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
