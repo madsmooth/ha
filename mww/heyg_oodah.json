@@ -3,7 +3,7 @@
   "wake_word": "heyg_oodah",
   "author": "madsmooth",
   "website": "https://github.com/madsmooth",
-  "model": "https://raw.githubusercontent.com/madsmooth/ha/refs/heads/main/mww/heyg_oodah.flite",
+  "model": "https://raw.githubusercontent.com/alexgustafsson/esphome/refs/heads/main/models/microwakeword/cicero.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
