@@ -1,14 +1,14 @@
 {
   "type": "micro",
   "wake_word": "heyg_oodah",
-  "author": "Steve Harvey",
-  "website": "https://www.madsmooth.com",
-  "model": "https://raw.githubusercontent.com/madsmooth/ha/refs/heads/main/mww/heyg_oodah.flite",
-  "version": 1,
+  "author": "madsmooth",
+  "website": "https://github.com/madsmooth",
+  "model": "https://raw.githubusercontent.com/aegjoyce/microwakeword-custom-words/refs/heads/main/models/alfred.tflite",
+  "version": 2,
   "trained_languages": ["en"],
   "micro": {
-    "probability_cutoff": 0.63,
-    "sliding_window_size": 5,
+    "probability_cutoff": 0.68,
+    "sliding_window_size": 4,
     "feature_step_size": 10,
     "tensor_arena_size": 22860,
     "minimum_esphome_version": "2024.7.0"
