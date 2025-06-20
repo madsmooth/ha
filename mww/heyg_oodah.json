@@ -3,7 +3,7 @@
   "wake_word": "heyg_oodah",
   "author": "Steve Harvey",
   "website": "https://www.madsmooth.com",
-  "model": "https://raw.githubusercontent.com/madsmooth/ha/refs/heads/main/mww/ohkay_goohdah.flite",
+  "model": "https://raw.githubusercontent.com/madsmooth/ha/refs/heads/main/mww/heyg_oodah.flite",
   "version": 1,
   "trained_languages": ["en"],
   "micro": {
